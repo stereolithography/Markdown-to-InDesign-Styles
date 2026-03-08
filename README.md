@@ -1,4 +1,4 @@
-# Markdown-to-InDesign-Styles
+# Markdown to InDesign Styles
 Converts imported Markdown into paragraph and character styles using two .jsx scripts. Feel free to make suggestions, changes, or use as you wish. This is primarily based on the video [Markdown to InDesign: From Plain to Formatted Fast](https://www.youtube.com/watch?v=OBwhNFN69Ps) by Luminous Works Training on YouTube, but those scripts kept throwing errors I couldn't solve so I made my own.
 
 ## How to Use
